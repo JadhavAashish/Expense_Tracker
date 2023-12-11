@@ -6,4 +6,6 @@ _______________
 - you can add or remove transactions.
 - it saves data for future use.
 
-  
+ 
+<img width="405" alt="sample_expenseTracker" src="https://github.com/JadhavAashish/Web_Development-Projects/assets/150897620/541421f0-703b-49e3-8479-3e92b2dc6348">
+
