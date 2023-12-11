@@ -16,6 +16,7 @@ _______________
 
 2.added income , expense and calculated balance - 
 
-![image](https://github.com/JadhavAashish/Web_Development-Projects/assets/150897620/405957a8-43a8-44d3-88a2-c03c6df2b20d)
+<img width="405" alt="added values" src="https://github.com/JadhavAashish/Web_Development-Projects/assets/150897620/405957a8-43a8-44d3-88a2-c03c6df2b20d">
+
 
 
