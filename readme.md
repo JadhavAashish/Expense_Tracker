@@ -7,7 +7,7 @@ _______________
 - it saves data for future use.
 
 Visit : 
- https://jadhavaashish.github.io/Expense_Tracker/
+ <a href="https://jadhavaashish.github.io/Expense_Tracker/">Visit</a>
 
  Screen shot:
  ____________
