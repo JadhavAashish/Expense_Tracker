@@ -16,5 +16,6 @@ _______________
 
 2.added income , expense and calculated balance - 
 
-<img width="405" alt="sample_expenseTracker" src="https://github.com/JadhavAashish/Web_Development-Projects/assets/150897620/541421f0-703b-49e3-8479-3e92b2dc6348">
+![image](https://github.com/JadhavAashish/Web_Development-Projects/assets/150897620/405957a8-43a8-44d3-88a2-c03c6df2b20d)
+
 
